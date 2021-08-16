@@ -1,6 +1,14 @@
 import logo from './logo.svg';
 import './App.css';
 
+function Square(props) {
+  return (
+    <button className="square" onClick={props.onClick}>
+      Testing
+    </button>
+  );
+}
+
 function App() {
   return (
     <div className="App">
@@ -17,6 +25,7 @@ function App() {
         >
           Learn React
         </a>
+        <Square onClick={() => alert('Hello, world!')} />
       </header>
     </div>
   );
