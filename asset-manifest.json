@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hbm-leaderboard/static/css/main.a617e044.chunk.css",
+    "main.js": "/hbm-leaderboard/static/js/main.f511974a.chunk.js",
+    "main.js.map": "/hbm-leaderboard/static/js/main.f511974a.chunk.js.map",
+    "runtime-main.js": "/hbm-leaderboard/static/js/runtime-main.e756942b.js",
+    "runtime-main.js.map": "/hbm-leaderboard/static/js/runtime-main.e756942b.js.map",
+    "static/js/2.4537ac26.chunk.js": "/hbm-leaderboard/static/js/2.4537ac26.chunk.js",
+    "static/js/2.4537ac26.chunk.js.map": "/hbm-leaderboard/static/js/2.4537ac26.chunk.js.map",
+    "static/js/3.48647db1.chunk.js": "/hbm-leaderboard/static/js/3.48647db1.chunk.js",
+    "static/js/3.48647db1.chunk.js.map": "/hbm-leaderboard/static/js/3.48647db1.chunk.js.map",
+    "index.html": "/hbm-leaderboard/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/hbm-leaderboard/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.4537ac26.chunk.js.LICENSE.txt": "/hbm-leaderboard/static/js/2.4537ac26.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/hbm-leaderboard/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e756942b.js",
+    "static/js/2.4537ac26.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.f511974a.chunk.js"
+  ]
+}
