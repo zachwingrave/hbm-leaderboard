@@ -28,7 +28,7 @@ function AppHeader(props) {
         </a>
         .
       </p>
-      <div class="Author-links">
+      <div className="Author-links">
         <a
           className="App-link"
           href="https://github.com/zachwingrave/"
@@ -47,10 +47,19 @@ function AppHeader(props) {
           Check out the code
         </a>
       </div>
+    </header>
+  );
+}
+
+function AppBody() {
+  return (
+    <div className="App-body">
+      Enter dashboard permalinks below:
+      <textarea id="dashboard-permalinks" className="App-textarea"></textarea>
       <AppButton onClick={() => alert('Hello, world!')}>
         Hello, world!
       </AppButton>
-    </header>
+    </div>
   );
 }
 
@@ -58,6 +67,7 @@ function App() {
   return (
     <div className="App">
       <AppHeader />
+      <AppBody />
     </div>
   );
 }
