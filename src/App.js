@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 
 function AppButton(props) {
@@ -11,10 +10,13 @@ function AppButton(props) {
   );
 }
 
+function AppTextArea(props) {
+  return <textarea className="App-textarea"></textarea>;
+}
+
 function AppHeader(props) {
   return (
     <header className="App-header">
-      <img src={logo} className="App-logo" alt="logo" />
       <h1>Human Benchmark Leaderboard</h1>
       <p>
         Compare permalinked dashboards from{' '}
@@ -55,10 +57,8 @@ function AppBody() {
   return (
     <div className="App-body">
       Enter dashboard permalinks below:
-      <textarea id="dashboard-permalinks" className="App-textarea"></textarea>
-      <AppButton onClick={() => alert('Hello, world!')}>
-        Hello, world!
-      </AppButton>
+      <AppTextArea></AppTextArea>
+      <AppButton onClick={main}>Compare Dashboards</AppButton>
     </div>
   );
 }
@@ -70,6 +70,19 @@ function App() {
       <AppBody />
     </div>
   );
+}
+
+function scrapeDashboards() {
+  console.log('scrapeDashboards: Not yet implemented.');
+}
+
+function compareDashboards() {
+  console.log('compareDashboards: Not yet implemented.');
+}
+
+function main() {
+  scrapeDashboards();
+  compareDashboards();
 }
 
 export default App;
