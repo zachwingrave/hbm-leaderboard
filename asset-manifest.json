@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/hbm-leaderboard/static/css/main.54e45c69.chunk.css",
-    "main.js": "/hbm-leaderboard/static/js/main.572730c3.chunk.js",
-    "main.js.map": "/hbm-leaderboard/static/js/main.572730c3.chunk.js.map",
+    "main.css": "/hbm-leaderboard/static/css/main.4eda35d7.chunk.css",
+    "main.js": "/hbm-leaderboard/static/js/main.f097f756.chunk.js",
+    "main.js.map": "/hbm-leaderboard/static/js/main.f097f756.chunk.js.map",
     "runtime-main.js": "/hbm-leaderboard/static/js/runtime-main.e756942b.js",
     "runtime-main.js.map": "/hbm-leaderboard/static/js/runtime-main.e756942b.js.map",
     "static/js/2.4537ac26.chunk.js": "/hbm-leaderboard/static/js/2.4537ac26.chunk.js",
@@ -10,14 +10,13 @@
     "static/js/3.48647db1.chunk.js": "/hbm-leaderboard/static/js/3.48647db1.chunk.js",
     "static/js/3.48647db1.chunk.js.map": "/hbm-leaderboard/static/js/3.48647db1.chunk.js.map",
     "index.html": "/hbm-leaderboard/index.html",
-    "static/css/main.54e45c69.chunk.css.map": "/hbm-leaderboard/static/css/main.54e45c69.chunk.css.map",
-    "static/js/2.4537ac26.chunk.js.LICENSE.txt": "/hbm-leaderboard/static/js/2.4537ac26.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/hbm-leaderboard/static/media/logo.6ce24c58.svg"
+    "static/css/main.4eda35d7.chunk.css.map": "/hbm-leaderboard/static/css/main.4eda35d7.chunk.css.map",
+    "static/js/2.4537ac26.chunk.js.LICENSE.txt": "/hbm-leaderboard/static/js/2.4537ac26.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e756942b.js",
     "static/js/2.4537ac26.chunk.js",
-    "static/css/main.54e45c69.chunk.css",
-    "static/js/main.572730c3.chunk.js"
+    "static/css/main.4eda35d7.chunk.css",
+    "static/js/main.f097f756.chunk.js"
   ]
 }
